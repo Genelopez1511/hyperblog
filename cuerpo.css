@@ -20,3 +20,9 @@ body
 {
     font-size: 40px;
 }
+
+body {
+
+    background-size: cover;
+    background-color: #8EB8F1;
+    }
