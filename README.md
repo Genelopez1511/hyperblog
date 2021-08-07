@@ -1,4 +1,4 @@
-# hyperblog:fa-star:
+# hyperblog:
 Curso de Git y Github dictado por @freddier Platzi.
 
 >El curso de Git y Github es un requisito clave en la carrera de la programación.
